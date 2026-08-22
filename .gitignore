@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+data/*.csv
+data/*.parquet
+models/*.pkl
+models/*.joblib
+mlruns/
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
